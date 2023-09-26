@@ -12,9 +12,6 @@
 
 🌟 Open to new opportunities and challenges, I’m ready to contribute my skills and expertise to exciting projects. Feel free to reach out for networking, discussions, or project inquiries.
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=shivakumar139&label=Profile%20views&color=0e75b6&style=flat" alt="shivakumar139" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shivakumar139" alt="shivakumar139" /></a> </p>
 
 - 🌱 I’m currently learning **Spring boot, Microservices**
 
