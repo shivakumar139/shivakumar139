@@ -1,5 +1,9 @@
 <h1 align="center">Hi 👋, I'm Shiva Kumar</h1>
 <h3 align="center">A passionate Spring Boot developer from India</h3>
+
+
+<img  align="right" width="450"  alt="coding" src="https://github.com/shivakumar139/shivakumar139/assets/52816688/c72d77a2-ce80-4153-bdfe-3f4c5f473555" alt="Image Description">
+
 “Passionate Spring Boot Developer with a strong foundation in Java, Hibernate, and a keen interest in Node.js. 🚀
 
 👨‍💻 With a deep love for coding and problem-solving, I thrive on developing robust, scalable, and high-performance applications using Spring Boot. I believe in the power of clean code and am committed to writing maintainable and efficient software.
